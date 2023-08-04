@@ -1,6 +1,6 @@
 ## Hello and welcome to my profile 👋
 
-I'm a Software Developer specializing in Embedded Systems and Network Programming. I also work with web development technologies occasionally.
+I'm a Software Developer specializing in Embedded Systems and Network Programming. I also work with web development technologies occasionally. I'm looking to broaden my skills in Computer Graphics and Systems Programming.
 
 ---
 
